@@ -1,0 +1,54 @@
+.TEST{
+    background-color: aquamarine;
+}
+.POP{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.IN{
+    background-image:url(../img/download.jpg);
+color: aliceblue;
+box-shadow: 5px 10px;
+}
+
+#example2 {
+  box-shadow: 5px 10px #888888;
+}
+.ER{
+    font-style: oblique;
+}
+.tr{
+    border-radius: 119px;
+    background: #7fccbf;
+    box-shadow:  -5px -5px 0px #33524c,
+                 5px 5px 0px #cbffff;
+}
+.jam{
+    font: 1em sans-serif;
+}
+.box_model{
+    font-family: fantasy;
+background-image:url(../img/download\ \(1\).jpg);
+color: aliceblue;
+ }
+ .all{
+    border-radius: 20px;
+    outline-width: 30px
+ }
+ .box_modeoo{
+    background-image:url(../img/ncidy.jpg);
+    color: aqua;
+    text-shadow: #33524c 30px;
+    
+ }
+ .vi{
+    border-radius: 0px;
+background: #63548c;
+box-shadow:  -26px -26px 52px #282238,
+             26px 26px 52px #9e86e0;
+  
+             margin-bottom: 40px;
+             border-width: 30px;
+             border-style: inset;
+             outline: #33524c;
+ }
+
